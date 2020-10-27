@@ -1,0 +1,1 @@
+Hi guys, I have created this repository to have some solutions for Codeforces problems and would be thankful if everyone can add their solutions to various problems to form a larger reference base for all.
